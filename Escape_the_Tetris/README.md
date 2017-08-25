@@ -11,6 +11,8 @@ Have fun!
 
 ## Screenshots
 
-* [Screenshot1](/screenshots/1.png)
-* [Screenshot2](/screenshots/2.png)
-* [Screenshot3](/screenshots/3.png)
+![Screenshot1](/Escape_the_Tetris/screenshots/1.png)
+
+![Screenshot2](/Escape_the_Tetris/screenshots/2.png)
+
+![Screenshot3](/Escape_the_Tetris/screenshots/3.png)
