@@ -14,7 +14,7 @@ This scene was made in 2 days. The goal was to understand how the optical illusi
 
 _Node system_
 
-![Screenshot2](/Monumentvalley/screenshots/2.png)
+![Screenshot2](/MonumentValley/screenshots/2.png)
 
 _Ingame view_
 
