@@ -1,0 +1,33 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3053 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll (this message is harmless)
+Loading C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll into Unity Child Domain
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Jerome\Desktop\Rollroll\RollrollDitto_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.364 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.238741 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1dc8 -> priority: 1 
+  Thread -> id: 1af0 -> priority: 1 
+  Thread -> id: 2278 -> priority: 1 
+  Thread -> id: 2afc -> priority: 1 
