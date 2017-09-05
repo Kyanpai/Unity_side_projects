@@ -8,14 +8,14 @@ This projet was made during my studies at 42. This is a puzzle game based on lig
 
 ## Screenshots
 
-![Screenshot1](/MonumentValley/screenshots/1.gif)
+![Screenshot1](/In_the_Shadows/screenshots/1.gif)
 
 _Main menu_
 
-![Screenshot2](/MonumentValley/screenshots/2.png)
+![Screenshot2](/In_the_Shadows/screenshots/2.png)
 
 _Unsolved puzzle_
 
-![Screenshot3](/MonumentValley/screenshots/3.png)
+![Screenshot3](/In_the_Shadows/screenshots/3.png)
 
 _Turn the shape to solve it!_
