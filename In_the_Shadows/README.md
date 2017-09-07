@@ -1,4 +1,4 @@
-# IN THE SHADOW
+# IN THE SHADOWS
 
 This projet was made during my studies at 42. This is a puzzle game based on light. You have to turn shapes to make their shadows look like... something :D
 

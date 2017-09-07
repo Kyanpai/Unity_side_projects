@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 36c3ccb5033ff3b49a2feba35d31eab6
+timeCreated: 1501677433
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: base_border_wall
+    100002: base_border_wall.001
+    100004: base_border_wall.066
+    100006: base_border_wall.067
+    100008: blue_cube_original
+    100010: broken_cube_00
+    100012: broken_cube_01
+    100014: broken_cube_02
+    100016: broken_cube_03
+    100018: broken_cube_04
+    100020: green_cube_original
+    100022: hero
+    100024: I_form_broken
+    100026: I_form_original
+    100028: L_left_form_broken
+    100030: L_left_form_original
+    100032: L_right_form_broken
+    100034: L_right_form_original
+    100036: orange_cube_original
+    100038: //RootNode
+    100040: purple_cube_original
+    100042: red_cube_original
+    100044: square_form_broken
+    100046: square_form_original
+    100048: T_form_broken
+    100050: T_form_original
+    100052: teal_cube_original
+    100054: yellow_cube_original
+    100056: Z_left_form_broken
+    100058: Z_left_form_original
+    100060: Z_right_form_broken
+    100062: Z_right_form_original
+    400000: base_border_wall
+    400002: base_border_wall.001
+    400004: base_border_wall.066
+    400006: base_border_wall.067
+    400008: blue_cube_original
+    400010: broken_cube_00
+    400012: broken_cube_01
+    400014: broken_cube_02
+    400016: broken_cube_03
+    400018: broken_cube_04
+    400020: green_cube_original
+    400022: hero
+    400024: I_form_broken
+    400026: I_form_original
+    400028: L_left_form_broken
+    400030: L_left_form_original
+    400032: L_right_form_broken
+    400034: L_right_form_original
+    400036: orange_cube_original
+    400038: //RootNode
+    400040: purple_cube_original
+    400042: red_cube_original
+    400044: square_form_broken
+    400046: square_form_original
+    400048: T_form_broken
+    400050: T_form_original
+    400052: teal_cube_original
+    400054: yellow_cube_original
+    400056: Z_left_form_broken
+    400058: Z_left_form_original
+    400060: Z_right_form_broken
+    400062: Z_right_form_original
+    2300000: base_border_wall
+    2300002: base_border_wall.001
+    2300004: base_border_wall.066
+    2300006: base_border_wall.067
+    2300008: blue_cube_original
+    2300010: broken_cube_00
+    2300012: broken_cube_01
+    2300014: broken_cube_02
+    2300016: broken_cube_03
+    2300018: broken_cube_04
+    2300020: green_cube_original
+    2300022: hero
+    2300024: I_form_broken
+    2300026: I_form_original
+    2300028: L_left_form_broken
+    2300030: L_left_form_original
+    2300032: L_right_form_broken
+    2300034: L_right_form_original
+    2300036: orange_cube_original
+    2300038: purple_cube_original
+    2300040: red_cube_original
+    2300042: square_form_broken
+    2300044: square_form_original
+    2300046: T_form_broken
+    2300048: T_form_original
+    2300050: teal_cube_original
+    2300052: yellow_cube_original
+    2300054: Z_left_form_broken
+    2300056: Z_left_form_original
+    2300058: Z_right_form_broken
+    2300060: Z_right_form_original
+    3300000: base_border_wall
+    3300002: base_border_wall.001
+    3300004: base_border_wall.066
+    3300006: base_border_wall.067
+    3300008: blue_cube_original
+    3300010: broken_cube_00
+    3300012: broken_cube_01
+    3300014: broken_cube_02
+    3300016: broken_cube_03
+    3300018: broken_cube_04
+    3300020: green_cube_original
+    3300022: hero
+    3300024: I_form_broken
+    3300026: I_form_original
+    3300028: L_left_form_broken
+    3300030: L_left_form_original
+    3300032: L_right_form_broken
+    3300034: L_right_form_original
+    3300036: orange_cube_original
+    3300038: purple_cube_original
+    3300040: red_cube_original
+    3300042: square_form_broken
+    3300044: square_form_original
+    3300046: T_form_broken
+    3300048: T_form_original
+    3300050: teal_cube_original
+    3300052: yellow_cube_original
+    3300054: Z_left_form_broken
+    3300056: Z_left_form_original
+    3300058: Z_right_form_broken
+    3300060: Z_right_form_original
+    4300000: base_border_wall.067
+    4300002: base_border_wall.066
+    4300004: base_border_wall.001
+    4300006: base_border_wall
+    4300008: I_form_broken
+    4300010: L_left_form_broken
+    4300012: L_right_form_broken
+    4300014: square_form_broken
+    4300016: Z_right_form_broken
+    4300018: Z_left_form_broken
+    4300020: broken_cube_04
+    4300022: broken_cube_03
+    4300024: broken_cube_02
+    4300026: broken_cube_01
+    4300028: broken_cube_00
+    4300030: T_form_original
+    4300032: I_form_original
+    4300034: L_left_form_original
+    4300036: L_right_form_original
+    4300038: square_form_original
+    4300040: Z_right_form_original
+    4300042: Z_left_form_original
+    4300044: purple_cube_original
+    4300046: teal_cube_original
+    4300048: blue_cube_original
+    4300050: orange_cube_original
+    4300052: yellow_cube_original
+    4300054: green_cube_original
+    4300056: red_cube_original
+    4300058: hero
+    4300060: T_form_broken
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
